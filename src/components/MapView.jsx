@@ -17,7 +17,6 @@ function MapView() {
       const data = await fetchEarthquakeData();
       setEarthquakes(data);
 
-      // Extract countries from place
       const countrySet = new Set();
       data.forEach((eq) => {
         const place = eq.properties.place;
