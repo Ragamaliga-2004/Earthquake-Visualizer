@@ -1,0 +1,35 @@
+.earthquake-container {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  height: 60vh;
+  width: 100%;
+  padding: 1rem;
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+  }
+}
+
+.side-panel {
+  flex: 1;
+  min-width: 250px;
+}
+
+.map-wrapper {
+  flex: 3;
+  position: relative;
+}
+
+.map-container {
+  height: 100%;
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.loading-screen {
+  text-align: center;
+  padding: 2rem;
+  font-size: 1.2rem;
+}
