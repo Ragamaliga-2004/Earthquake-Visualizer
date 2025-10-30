@@ -33,14 +33,23 @@ Sass / Styled-Components Styling
 
 📁 Project Structure
 📦 EarthquakeVisualizer
+
 ┣ 📂 src
+
 ┃ ┣ 📂 components
+
 ┃ ┃ ┗ 📜 Map.jsx
+
 ┃ ┣ 📂 styles
+
 ┃ ┣ 📜 App.jsx
+
 ┃ ┗ 📜 main.jsx
+
 ┣ 📜 package.json
+
 ┣ 📜 README.md
+
 ┗ 📜 vite.config.js
 
 🚀 Getting Started
