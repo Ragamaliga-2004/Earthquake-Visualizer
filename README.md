@@ -33,7 +33,9 @@ Sass / Styled-Components Styling
 
 📁 Project Structure
 📦 EarthquakeVisualizer
+
 ┣ 📂 src
+
 ┃ ┣ 📂 components
 ┃ ┃ ┗ 📜 Map.jsx
 ┃ ┣ 📂 styles
