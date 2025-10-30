@@ -32,6 +32,7 @@ React-Leaflet React binding for Leaflet
 Sass / Styled-Components Styling
 
 📁 Project Structure
+
 📦 EarthquakeVisualizer
 
 ┣ 📂 src
@@ -53,6 +54,7 @@ Sass / Styled-Components Styling
 ┗ 📜 vite.config.js
 
 🚀 Getting Started
+
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/earthquake-visualizer.git
 cd earthquake-visualizer
