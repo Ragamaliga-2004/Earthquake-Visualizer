@@ -1,4 +1,4 @@
-import "../styles/filterPanel.scss";
+import "../styles/filterpanel.scss";
 
 const FilterPanel = ({
   countries,
